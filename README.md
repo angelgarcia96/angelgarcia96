@@ -1,8 +1,14 @@
 ### ¡Hola mundo! 👋
 
-Me llamo Ángel, soy administrativo, y he tomado la decisión de entrar en el mundo del análisis de datos gracias a un curso que terminé de Big Data en mayo de 2023.
-Este repositorio es solamente informativo y para que me conozcas algo más, dejando abajo tanto correo como LinkedIn.
+Me llamo Ángel, soy administrativo, y he tomado la decisión de entrar en el mundo del análisis de datos gracias a un curso de Big Data que terminé en mayo de 2023.
 
+Alguna de las tecnologías que manejo son:
+
+-Python
+-SQL
+-Azure Databricks
+-Google Analytics 4
+-Looker Studio
 
 
 
